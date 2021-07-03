@@ -1,0 +1,15 @@
+D:\c#\ApiNationalize\ApiNationalize\bin\Debug\ApiNationalize.exe.config
+D:\c#\ApiNationalize\ApiNationalize\bin\Debug\ApiNationalize.exe
+D:\c#\ApiNationalize\ApiNationalize\bin\Debug\ApiNationalize.pdb
+D:\c#\ApiNationalize\ApiNationalize\bin\Debug\Newtonsoft.Json.dll
+D:\c#\ApiNationalize\ApiNationalize\bin\Debug\RestSharp.dll
+D:\c#\ApiNationalize\ApiNationalize\bin\Debug\Newtonsoft.Json.xml
+D:\c#\ApiNationalize\ApiNationalize\bin\Debug\RestSharp.xml
+D:\c#\ApiNationalize\ApiNationalize\obj\Debug\ApiNationalize.csprojAssemblyReference.cache
+D:\c#\ApiNationalize\ApiNationalize\obj\Debug\ApiNationalize.Form1.resources
+D:\c#\ApiNationalize\ApiNationalize\obj\Debug\ApiNationalize.Properties.Resources.resources
+D:\c#\ApiNationalize\ApiNationalize\obj\Debug\ApiNationalize.csproj.GenerateResource.cache
+D:\c#\ApiNationalize\ApiNationalize\obj\Debug\ApiNationalize.csproj.CoreCompileInputs.cache
+D:\c#\ApiNationalize\ApiNationalize\obj\Debug\ApiNationalize.csproj.CopyComplete
+D:\c#\ApiNationalize\ApiNationalize\obj\Debug\ApiNationalize.exe
+D:\c#\ApiNationalize\ApiNationalize\obj\Debug\ApiNationalize.pdb
